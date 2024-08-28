@@ -26,17 +26,19 @@ To run this game, you'll need Python 3 and Pygame installed on your machine.
 - **Python 3**: [Download Python 3](https://www.python.org/downloads/)
 - **Pygame**: Install Pygame by running the following command in your terminal:
 
+- This game was created as an assignment from Boot.dev. Special thanks to the Boot.dev team for their excellent curriculum on Python.
+
+- you can clone the repo to your local machine 
+
 ```bash
+
 pip install pygame
 
-
-you can close the repo to your local machine 
 git clone https://github.com/andre-stander-dev/bootdev_asteroids_game.git
 cd bootdev_asteroids_game
 
-run the game:
 python3 main.py
 
 
-This game was created as an assignment from Boot.dev. Special thanks to the Boot.dev team for their excellent curriculum on Python.
+
 
